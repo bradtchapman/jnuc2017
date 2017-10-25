@@ -1,5 +1,5 @@
 # jnuc2017
-Presentation Materials for JNUC 2017: "A Push Odyssey"
+Presentation Materials for "2017: A Push Odyssey — Journey to the Center of APNS"
 
 Thank you so much for attending my session!  If you missed it, here are the links to my Keynote deck and a static copy of the slides as a PDF.
 
