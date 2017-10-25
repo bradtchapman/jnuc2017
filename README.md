@@ -9,11 +9,11 @@ Keynote: https://www.dropbox.com/s/lvyso61f3oze4r4/bchapman-jnuc2017-keynote.key
 Slides: https://www.dropbox.com/s/0cq4ske7e4pqfsq/bchapman-jnuc2017-slides.pdf
 
 
-Sincerely,
-Bradley Chapman
-Systems Engineer
-Los Angeles, CA
+Sincerely,  
+Bradley Chapman  
+Systems Engineer  
+Los Angeles, CA  
 
-Email: bradtchapman@gmail.com
-Phone: (213) 254-5282  (Google Voice)
+Email: bradtchapman@gmail.com  
+Phone: (213) 254-5282  (Google Voice)  
 
