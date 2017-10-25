@@ -8,6 +8,8 @@ Keynote: https://www.dropbox.com/s/lvyso61f3oze4r4/bchapman-jnuc2017-keynote.key
 
 Slides: https://www.dropbox.com/s/0cq4ske7e4pqfsq/bchapman-jnuc2017-slides.pdf
 
+Intro Movie: https://www.dropbox.com/s/pjaq9t4wajc15cr/bchapman-jnuc2017-odysseymovie.m4v
+
 
 Sincerely,  
 Bradley Chapman  
