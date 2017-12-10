@@ -3,7 +3,7 @@ Presentation Materials for "2017: A Push Odyssey — Journey to the Center of A
 
 Thank you so much for your interest in my Session at JNUC 2017!  Here are direct links to the session as it was presented at JNUC, followed by the keynote deck, a copy of the slides as PDFs only, and the 'Space Odyssey' intro by itself.
 
-PRESENTATION: https://www.dropbox.com/s/fl8g7n529356vl3/bchapman-jnuc2017-presentation-720p.m4v
+PRESENTATION: https://youtu.be/nXjEevMtwa4
 
 Keynote: https://www.dropbox.com/s/lvyso61f3oze4r4/bchapman-jnuc2017-keynote.key
 
