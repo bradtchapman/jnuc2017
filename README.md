@@ -18,5 +18,4 @@ Systems Engineer
 Los Angeles, CA  
 
 Email: bradtchapman@gmail.com  
-Phone: (213) 254-5282  (Google Voice)  
 
